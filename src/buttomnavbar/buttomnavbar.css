@@ -1,0 +1,31 @@
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+.menu_container {
+  background: rgba(9, 18, 66, 0.25);
+  height: 50px;
+}
+.menu_wrapper {
+  display: flex;
+  /* justify-content: center; */
+  /* gap: 200px; */
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px 90px;
+  gap: 100px;
+}
+.menubar ul {
+  display: flex;
+  gap: 30px;
+}
+.menucontext {
+  display: flex;
+  gap: 20px;
+}
+.socialhandles img {
+  /* gap: 30px; */
+  margin: 0px 15px;
+}

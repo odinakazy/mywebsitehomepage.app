@@ -1,0 +1,5 @@
+.image_component img {
+  /* position: relative; */
+  width: 100%;
+  height: 50vh;
+}
