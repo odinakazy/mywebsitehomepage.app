@@ -1,0 +1,38 @@
+.width img {
+  width: 230px;
+}
+.project_image {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.project_content {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-bottom: -150px;
+}
+.content {
+  max-width: 1200px;
+  margin: 0px auto;
+}
+.project_text h2 {
+  text-align: center;
+}
+.btn button {
+  padding: 10px 30px;
+  margin: 0px 530px;
+  background: #091242;
+  color: white;
+}
+
+.project_BG {
+  width: 100%;
+  height: 200px;
+  background: linear-gradient(
+    95deg,
+    #ffb629 -1.19%,
+    #ffda56 57.78%,
+    #ffd7a6 115.08%
+  );
+}
