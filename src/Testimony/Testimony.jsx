@@ -35,7 +35,9 @@ export default function Testimony() {
                 </div>
                 <div className="texted">
                   <ul>
-                    <li>kathleen Smith</li>
+                    <li>
+                      <h3>kathy Smith</h3>
+                    </li>
                     <li>Fuel company</li>
                   </ul>
                 </div>
@@ -70,8 +72,10 @@ export default function Testimony() {
                 </div>
                 <div className="texteds">
                   <ul>
-                    <li>kathleen Smith</li>
-                    <li>Fuel company</li>
+                    <li>
+                      <h3>John Martin</h3>
+                    </li>
+                    <li>Oil Company</li>
                   </ul>
                 </div>
               </div>
