@@ -6,6 +6,8 @@ import About from "./About/About";
 import Image from "./Image/Image";
 import Project from "./Project/Project";
 import Testimony from "./Testimony/Testimony";
+import Why from "./Why/Why";
+import Team from "./Team/Team";
 
 const App = () => {
   return (
@@ -18,6 +20,8 @@ const App = () => {
       <About />
       <Project />
       <Testimony />
+      <Why />
+      <Team />
     </>
   );
 };
