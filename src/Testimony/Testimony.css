@@ -1,0 +1,83 @@
+.testimonials {
+  max-width: 800px;
+  margin: 35px auto;
+  /* border: 2px solid red; */
+}
+
+.title_text {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 480px;
+}
+.imagered img {
+  width: 30px;
+}
+.nancy {
+  max-width: 800px;
+  height: 320px;
+  display: flex;
+  flex-direction: row;
+  /* border: 3px solid yellow; */
+  margin-top: 20px;
+}
+.Amara {
+  min-width: 400px;
+  background-color: #f4f4f4;
+  height: 300px;
+}
+.odi {
+  min-width: 400px;
+  height: 300px;
+  background-color: #091242;
+}
+.imageds img {
+  width: 60px;
+}
+.texteds ul {
+  font-size: 10px;
+  margin: 20px 0px;
+  color: white;
+}
+.texted ul {
+  font-size: 10px;
+  margin: 20px 0px;
+  color: black;
+}
+.Amara4 img {
+  width: 50px;
+  margin: 10px 0px;
+}
+.Amara2 {
+  display: flex;
+  flex-direction: row;
+  gap: 130px;
+  /* border: 3px solid red; */
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+  color: white;
+}
+.paragrap p {
+  font-size: 12px;
+  margin: 0px 45px;
+  min-width: 300px;
+  color: black;
+}
+.paragraph p {
+  font-size: 12px;
+  margin: 0px 45px;
+  min-width: 300px;
+  color: white;
+}
+
+.image_text {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  font-style: normal;
+}
+.star {
+  margin: 20px 40px;
+}
