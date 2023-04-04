@@ -1,0 +1,23 @@
+.team_container {
+  max-width: 800px;
+  margin: 35px auto;
+  /* border: 2px solid red; */
+  height: 485px;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.team_container h6,
+h3 {
+  text-align: center;
+}
+.team_image {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+}
+.pic img {
+  width: 253.5px;
+}
