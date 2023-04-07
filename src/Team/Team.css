@@ -1,7 +1,8 @@
 .team_container {
   max-width: 800px;
   margin: 35px auto;
-  /* border: 2px solid red; */
+  /* border: 2px solid yellow; */
+  background: #f4f4f4;
   height: 485px;
   padding-top: 20px;
   display: flex;

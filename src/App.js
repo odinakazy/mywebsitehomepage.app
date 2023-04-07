@@ -8,6 +8,7 @@ import Project from "./Project/Project";
 import Testimony from "./Testimony/Testimony";
 import Why from "./Why/Why";
 import Team from "./Team/Team";
+import Contact from "./Contact/Contact";
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
       <Testimony />
       <Why />
       <Team />
+      <Contact />
     </>
   );
 };

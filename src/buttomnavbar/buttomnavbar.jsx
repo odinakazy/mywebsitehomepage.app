@@ -34,9 +34,7 @@ const buttomnavbar = () => {
             <img src={twittericon} alt="logo" />
             <img src={linkedinicon} alt="logo" />
           </div>
-          <div className="btn">
-            <input type="button" class="button" value="Input Button" />
-          </div>
+          <div className="btn"></div>
         </div>
       </div>
     </div>
