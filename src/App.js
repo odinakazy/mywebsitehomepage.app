@@ -10,6 +10,7 @@ import Why from "./Why/Why";
 import Team from "./Team/Team";
 import Contact from "./Contact/Contact";
 import Blog from "./Blog/Blog";
+import Footer from "./Footer/Footer";
 
 const App = () => {
   return (
@@ -26,6 +27,7 @@ const App = () => {
       <Team />
       <Contact />
       <Blog />
+      <Footer />
     </>
   );
 };

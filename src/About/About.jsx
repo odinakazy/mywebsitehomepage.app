@@ -79,12 +79,12 @@ export default function About() {
           <div className="text_container">
             <p>Why Us</p>
             <h2>We provide full range global logistics solution</h2>
-            <p>
+            <p className="PO">
               Leverage agile framework to provide a robust synopsis for strategy
               foster collaborative thinking to further thr overall value
               proposition{" "}
             </p>
-            <p>
+            <p className="PO">
               Organically grow the holistic world view of disruptive innovation
               via workspace diversity and empowerment
             </p>
