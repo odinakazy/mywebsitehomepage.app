@@ -6,6 +6,7 @@
   /* background-position: inherit; */
   overflow: visible;
   padding: 19px 0px;
+  height: 490px;
 }
 .banner_context {
   display: flex;

@@ -7,6 +7,7 @@ a {
 .menu_container {
   background: rgba(9, 18, 66, 0.25);
   height: 50px;
+  width: 100%;
 }
 .menu_wrapper {
   display: flex;

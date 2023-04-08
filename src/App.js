@@ -9,6 +9,7 @@ import Testimony from "./Testimony/Testimony";
 import Why from "./Why/Why";
 import Team from "./Team/Team";
 import Contact from "./Contact/Contact";
+import Blog from "./Blog/Blog";
 
 const App = () => {
   return (
@@ -24,6 +25,7 @@ const App = () => {
       <Why />
       <Team />
       <Contact />
+      <Blog />
     </>
   );
 };

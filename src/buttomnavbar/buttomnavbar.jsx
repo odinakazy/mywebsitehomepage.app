@@ -1,5 +1,5 @@
-import "./buttomnavbar.css";
 import React from "react";
+import "./buttomnavbar.css";
 import instargramicon from "../assets/Instagram.png";
 import facebookicon from "../assets/Facebook.png";
 import twittericon from "../assets/Twitter.png";
