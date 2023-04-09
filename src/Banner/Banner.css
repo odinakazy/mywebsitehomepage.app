@@ -26,12 +26,12 @@
   width: 40%;
   font-family: "Rubik";
   font-style: normal;
-  font-weight: 700;
+  /* font-weight: 700; */
   color: white;
 }
 .BN {
-  font-size: 10px;
-  width: 39.8%;
+  font-size: 13px;
+  width: 40.8%;
   justify-content: flex-start;
   align-items: flex-start;
   color: white;
