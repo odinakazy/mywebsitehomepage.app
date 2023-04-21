@@ -135,3 +135,19 @@ h2 {
     width: 90rem;
   }
 }
+@media (min-width: 481px) and (max-width: 767px) {
+  .about_container {
+    width: 90rem;
+  }
+  .counter_container {
+    margin-left: 3.5rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .about_container {
+    width: 90rem;
+  }
+  .counter_container {
+    margin-left: 3.5rem;
+  }
+}

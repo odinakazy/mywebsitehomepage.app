@@ -23,6 +23,9 @@ body {
 .navbar {
   display: flex;
 }
+.navbar span {
+  color: white;
+}
 .logo img {
   width: 120px;
 }
@@ -39,6 +42,16 @@ body {
 }
 
 @media (max-width: 480px) {
+  .header_container {
+    width: 90rem;
+  }
+}
+@media (min-width: 481px) and (max-width: 767px) {
+  .header_container {
+    width: 90rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
   .header_container {
     width: 90rem;
   }

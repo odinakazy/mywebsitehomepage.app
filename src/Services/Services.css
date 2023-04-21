@@ -82,3 +82,23 @@ div {
     margin-left: 4rem;
   }
 }
+@media (min-width: 481px) and (max-width: 767px) {
+  .content_text {
+    width: 40rem;
+    margin-left: 4rem;
+  }
+  .content_text2 {
+    width: 40rem;
+    margin-left: 4rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .content_text {
+    width: 40rem;
+    margin-left: 4rem;
+  }
+  .content_text2 {
+    width: 40rem;
+    margin-left: 4rem;
+  }
+}
