@@ -22,3 +22,9 @@ h3 {
 .pic img {
   width: 253.5px;
 }
+@media (max-width: 480px) {
+  .team_container {
+    width: 90rem;
+    margin-left: 20rem;
+  }
+}

@@ -47,3 +47,8 @@
   font-size: 16px;
   margin: 4px 2px;
 }
+@media (max-width: 480px) {
+  .banner_showcase {
+    width: 90rem;
+  }
+}

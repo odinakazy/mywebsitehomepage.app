@@ -60,3 +60,8 @@
   width: 25px;
   margin-bottom: -5px;
 }
+@media (max-width: 480px) {
+  .why {
+    width: 90rem;
+  }
+}

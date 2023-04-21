@@ -98,3 +98,8 @@ textarea {
 .contactimg {
   margin-bottom: 40px;
 }
+@media (max-width: 480px) {
+  .contact_container {
+    width: 90rem;
+  }
+}

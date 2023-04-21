@@ -37,3 +37,9 @@ body {
   flex-direction: column;
   justify-content: center;
 }
+
+@media (max-width: 480px) {
+  .header_container {
+    width: 90rem;
+  }
+}

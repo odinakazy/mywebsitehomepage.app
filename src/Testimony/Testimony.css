@@ -81,3 +81,9 @@
 .star {
   margin: 20px 40px;
 }
+@media (max-width: 480px) {
+  .testimonials {
+    width: 90rem;
+    margin-left: 18rem;
+  }
+}

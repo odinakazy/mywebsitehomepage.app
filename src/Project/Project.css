@@ -36,3 +36,8 @@
     #ffd7a6 115.08%
   );
 }
+@media (max-width: 480px) {
+  .project {
+    width: 90rem;
+  }
+}
