@@ -9,7 +9,7 @@ const buttomnavbar = () => {
     <div className="menu_container">
       <div className="menu_wrapper">
         <div className="menubar">
-          <ul>
+          <ul className="list">
             <li>
               <a href="#Home">Home</a>
             </li>

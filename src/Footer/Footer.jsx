@@ -9,7 +9,8 @@ export default function Footer() {
       </div>
       <div className="footer_content">
         <p>
-          Copyright © TransitFlow | Designed by VictorFlow - Powered by Webflow.
+          Copyright © TransitFlow | Designed by odinaka solomon - Powered by
+          Webflow.
         </p>
       </div>
     </div>
